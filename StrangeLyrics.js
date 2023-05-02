@@ -244,7 +244,7 @@ fetch("https://accounts.spotify.com/api/token",
 const form = document.querySelector('#search_content');
 form.addEventListener('submit', search);
 
-const modale = document.querySelector('#modale');
+// const modale = document.querySelector('#modale');
 // modale.addEventListener("click", chiudiModaleClick);
 // window.addEventListener('keydown', chiudiModale);
 
